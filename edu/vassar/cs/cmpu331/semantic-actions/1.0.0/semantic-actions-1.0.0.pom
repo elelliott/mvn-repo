@@ -39,7 +39,7 @@
                 <version>2.10.3</version>
             </plugin>
         </plugins>
-    </reporting>
+    </reporting> -->
     <repositories>
         <repository>
             <id>github</id>
@@ -48,6 +48,6 @@
             <releases><enabled>true</enabled></releases>
             <snapshots><enabled>true</enabled></snapshots>
         </repository>
-    </repositories> -->
+    </repositories>
 
 </project>
